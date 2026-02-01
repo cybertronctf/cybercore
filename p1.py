@@ -1,1 +1,0 @@
-print("cybercore FIX2")
